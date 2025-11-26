@@ -56,7 +56,6 @@ Output Waveform
 
 
 Tabular Column
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/05e08de9-0c1a-4926-94e0-50b0e83b433f" />
 
 
 
